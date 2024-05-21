@@ -11,4 +11,6 @@ public class JsonSchema {
 
     public static final String REGISTER_SCHEMA = "features/schema/Authentication/register_schema.json";
     public static final String LOGIN_SCHEMA = "features/schema/Authentication/login_schema.json";
+
+    public static final String RATING_SCHEME = "features/schema/Products/get_rating_product_schema.json";
 }
